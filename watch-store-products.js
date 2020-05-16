@@ -18,6 +18,25 @@ let products = [{
     waranty: "2 Years of Warranty",
     description: "The Tissot Gentleman is a multi-purpose watch, both ergonomic and elegant in any circumstance. It is equally suitable for wearing in a business environment, where conventional dress codes apply, as at the weekend, when it adapts easily to leisure activities. As part of the life of a modern, active man, the Tissot Gentleman becomes the perfect companion for every day, every occasion and every style."
 }, {
+    name: "TISSOT FLAMINGO",
+    gender: "Women",
+    price: 3950,
+    year: 2012,
+    images: [
+        "T094.210.22.111.00_2",
+        "T094.210.22.111.00_zoombracelet_1"
+    ],
+    case: {
+        color: "Gold",
+        material: "316L stainless steel case with rose gold PVD coating"
+    },
+    strap: {
+        color: "Grey, Rose Gold 5N",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "Embodying perfect simplicity, the clean lines of the Tissot Flamingo watch make it beautifully pure. It is unfussy and trendy without trying to be – sure to never go out of style, this elegant piece of jewellery is set to be a classic."
+}, {
     name: "TISSOT CHRONO XL NBA SPECIAL EDITION",
     gender: "Men",
     price: 7500,
@@ -36,6 +55,44 @@ let products = [{
     },
     waranty: "2 Years of Warranty",
     description: "This very sporty and fashionable large chronograph (45mm) exclusively dedicated to NBA has a special caseback where the NBA logo is engraved and a leather strap which imitates a basket ball. We created the Chrono XL NBA for passionate Basketball fans looking for a Swiss chronograph at an affordable price without compromising on quality and style."
+}, {
+    name: "TISSOT LOVELY SQUARE",
+    gender: "Women",
+    price: 2650,
+    year: 2017,
+    images: [
+        "T058.109.16.031.00_1",
+        "T058.109.16.031.00_WRIST"
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Blue",
+        material: "Leather"
+    },
+    waranty: "2 Years of Warranty",
+    description: "A tribute to the small Tissot ladies' watches of the 1960s, the Tissot Lovely Square is an utterly feminine creation, calibrated for the finest wrists. With delicate 2 x 2 cm dimensions, it is nonetheless bold in its square design, and its satin-smooth case glimmers whatever the season. Its exquisite dial, displaying minutes alongside hours, has the sensual aura of the most feminine attire. The design is available in seven distinct versions, naturally attracting women in love with timeless glamour."
+}, {
+    name: "TISSOT CARSON PREMIUM LADY",
+    gender: "Women",
+    price: 3150,
+    year: 2018,
+    images: [
+        "T122.210.16.033.00_1",
+        "T122.210.16.033.00_zoombracelet_1"
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Black",
+        material: "Leather"
+    },
+    waranty: "2 Years of Warranty",
+    description: "The Tissot Carson, an all-timer which will suit any time or place, will be the perfect partner to accompany you to every great occasion in your life so that every moment you live is right on time. Its classic style allows it to never go out of date, while giving it its sumptuous look, highlighted by a graceful dial design and elongated fine hands that move around the dial in time."
 }, {
     name: "TISSOT LE LOCLE POWERMATIC 80",
     gender: "Men",
@@ -56,6 +113,25 @@ let products = [{
     waranty: "2 Years of Warranty",
     description: "The name Le Locle seems to be a reliable ingredient of success. As well as being the name of Tissot's home and heritage, nestled in the Swiss Jura Mountains, it is the name of a hugely popular automatic watch family. The models display exquisite elegance with details such as Roman numerals and a traditional Le Locle signature which complete the picture of classical chic. "
 }, {
+    name: "TISSOT T-WAVE",
+    gender: "Women",
+    price: 4250,
+    year: 2019,
+    images: [
+        "T112.210.22.113.01_1",
+        "T112.210.22.113.01_zoombracelet_1"
+    ],
+    case: {
+        color: "Gold",
+        material: "316L stainless steel case with rose gold PVD coating"
+    },
+    strap: {
+        color: "Grey, Rose Gold 5N",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "There is a certain grace in the way a silk ribbon swirls in the wind. It is that elegance and lightness that inspired the design of the Tissot T-Wave. The curves of the case and lugs follow the harmonious lines formed by the fluid movement of a ribbon. The Tissot T-Wave is a piece of jewelry that can be worn at any occasion, adding a touch of sophistication to a daily outfit or complimenting a cocktail dress for a special occasion."
+}, {
     name: "TISSOT GENTLEMAN POWERMATIC 80 SILICIUM",
     gender: "Men",
     price: 6500,
@@ -74,6 +150,24 @@ let products = [{
     },
     waranty: "2 Years of Warranty",
     description: "The name Le Locle seems to be a reliable ingredient of success. As well as being the name of Tissot's home and heritage, nestled in the Swiss Jura Mountains, it is the name of a hugely popular automatic watch family. The models display exquisite elegance with details such as Roman numerals and a traditional Le Locle signature which complete the picture of classical chic. "
+}, {
+    name: "TISSOT LOVELY SQUARE",
+    gender: "Women",
+    price: 3400,
+    year: 2020,
+    images: [
+        "T058.109.33.031.00_2"
+    ],
+    case: {
+        color: "Gold",
+        material: "316L stainless steel case with yellow gold PVD coating"
+    },
+    strap: {
+        color: "Grey, Yellow Gold 1N14",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "A tribute to the small Tissot ladies' watches of the 1960s, the Tissot Lovely Square is an utterly feminine creation, calibrated for the finest wrists. With delicate 2 x 2 cm dimensions, it is nonetheless bold in its square design, and its satin-smooth case glimmers whatever the season. Its exquisite dial, displaying minutes alongside hours, has the sensual aura of the most feminine attire. The design is available in seven distinct versions, naturally attracting women in love with timeless glamour."
 }, {
     name: "TISSOT T-TOUCH EXPERT SOLAR II SWISS EDITION",
     gender: "Men",
@@ -132,6 +226,44 @@ let products = [{
     waranty: "2 Years of Warranty",
     description: "Named after Tissot's hometown, the cradle of the watchmaking industry, the Tissot Le Locle encases the brand DNA and craftsmanship values. The Le Locle Automatic Lady, powered by an automatic Swiss movement, displays exquisite elegance. Details such as Roman numerals and a traditional Le Locle signature complete the picture of classical chic. These finish off soave daytime and evening looks with a flourish."
 }, {
+    name: "TISSOT CARSON PREMIUM AUTOMATIC LADY",
+    gender: "Women",
+    price: 7750,
+    year: 2020,
+    images: [
+        "T122.207.11.036.00_2",
+        "T122.207.11.036.00_zoombracelet_2"
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Grey",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "The Tissot Carson, an all-timer which will suit any time or place, will be the perfect partner to accompany you to every great occasion in your life so that every moment you live is right on time. Its classic style allows it to never go out of date, while giving it its sumptuous look, highlighted by a graceful dial design and elongated fine hands that move around the dial in time."
+}, {
+    name: "TISSOT CARSON PREMIUM AUTOMATIC LADY",
+    gender: "Women",
+    price: 6700,
+    year: 2020,
+    images: [
+        "T122.207.11.033.00",
+        "T122.207.11.033.00_zoombracelet"
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Grey",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "The Tissot Carson, an all-timer which will suit any time or place, will be the perfect partner to accompany you to every great occasion in your life so that every moment you live is right on time. Its classic style allows it to never go out of date, while giving it its sumptuous look, highlighted by a graceful dial design and elongated fine hands that move around the dial in time."
+}, {
     name: "TISSOT V8 ALPINE",
     gender: "Men",
     price: 5900,
@@ -170,6 +302,63 @@ let products = [{
     waranty: "2 Years of Warranty",
     description: "This solar-powered watch features a touchscreen for access to many useful functions. This model comes in a fashionable color and has a unique and scratch-resistant ceramic bezel. The new ceramic bezel is scratch-resistant and brings a touch of color. The inscriptions on the bezel are in luminescent, which helps you to navigate even in the dark. Tissot’s pioneering spirit is what led to the creation of tactile watches in 1999. Today, it is the first to present a touch-screen watch powered by solar energy, confirming its position as leader in tactile technology in watchmaking. The rays of light on the dial allow to recharge the watch and to offer essential functions for everyday use. All this in a modern and dynamic stylish watch."
 }, {
+    name: "TISSOT PR 100 LADY SMALL",
+    gender: "Women",
+    price: 3200,
+    year: 2019,
+    images: [
+        "T101.010.22.111.01_1",
+        "T101.010.22.111.01_zoombracelet_2"
+    ],
+    case: {
+        color: "Rose Gold",
+        material: "316L stainless steel case with rose gold PVD coating"
+    },
+    strap: {
+        color: "Grey, Rose Gold 5N",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "The Tissot PR 100 is a classic watch destined to be worn often and for every occasion. It features the simple and elegant face the collection is loved for, with the pared-back aesthetic symbolising luxury, quality and classic style."
+}, {
+    name: "TISSOT T-MY LADY AUTOMATIC 18K GOLD",
+    gender: "Women",
+    price: 21695,
+    year: 2020,
+    images: [
+        "T930.007.41.031.00",
+        "T930.007.41.031.00_DETAIL.2"
+    ],
+    case: {
+        color: "Rose Gold",
+        material: "316L stainless steel case with 18K rose gold bezel"
+    },
+    strap: {
+        color: "Grey",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "All women The Tissot T-My Lady is not just a feminine watch. Its concept, design and profound vocation make it the ideal watch for women: ladies, elegant, refined or business women - who consider that a watch is an object that journeys through time. Its dimensions - 29 mm in diameter - makes it the ideal everyday companion. Its 18 k solid gold burnished bezel gives relief, character and warmth to the T-My Lady collection. Its mechanical self-winding movement, regulated by a Nivachron spiral has exceptional non-magnetic capacities."
+}, {
+    name: "TISSOT T-MY LADY AUTOMATIC 18K GOLD",
+    gender: "Women",
+    price: 14350,
+    year: 2020,
+    images: [
+        "T930.007.41.266.00",
+        "T930.007.41.266.00_B1"
+    ],
+    case: {
+        color: "Rose Gold",
+        material: "316L stainless steel case with 18K rose gold bezel"
+    },
+    strap: {
+        color: "Grey",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "All women The Tissot T-My Lady is not just a feminine watch. Its concept, design and profound vocation make it the ideal watch for women: ladies, elegant, refined or business women - who consider that a watch is an object that journeys through time. Its dimensions - 29 mm in diameter - makes it the ideal everyday companion. Its 18 k solid gold burnished bezel gives relief, character and warmth to the T-My Lady collection. Its mechanical self-winding movement, regulated by a Nivachron spiral has exceptional non-magnetic capacities."
+}, {
     name: "TISSOT GENTLEMAN",
     gender: "Men",
     price: 4900,
@@ -188,6 +377,25 @@ let products = [{
     },
     waranty: "2 Years of Warranty",
     description: "The Tissot Gentleman is a multi-purpose watch, both ergonomic and elegant in any circumstance. It is equally suitable for wearing in a business environment, where conventional dress codes apply, as at the weekend, when it adapts easily to leisure activities. As part of the life of a modern, active man, the Tissot Gentleman becomes the perfect companion for every day, every occasion and every style."
+}, {
+    name: "TISSOT T-MY LADY AUTOMATIC 18K GOLD",
+    gender: "Women",
+    price: 12795,
+    year: 2020,
+    images: [
+        "T930.007.46.041.00",
+        "T930.007.46.041.00_B1"
+    ],
+    case: {
+        color: "Rose Gold",
+        material: "316L stainless steel case with 18K rose gold bezel"
+    },
+    strap: {
+        color: "Brown",
+        material: "Leather"
+    },
+    waranty: "2 Years of Warranty",
+    description: "All women The Tissot T-My Lady is not just a feminine watch. Its concept, design and profound vocation make it the ideal watch for women: ladies, elegant, refined or business women - who consider that a watch is an object that journeys through time. Its dimensions - 29 mm in diameter - makes it the ideal everyday companion. Its 18 k solid gold burnished bezel gives relief, character and warmth to the T-My Lady collection. Its mechanical self-winding movement, regulated by a Nivachron spiral has exceptional non-magnetic capacities."
 }, {
     name: "TISSOT CHRONO XL",
     gender: "Men",
@@ -208,6 +416,25 @@ let products = [{
     waranty: "2 Years of Warranty",
     description: "This sporty chronograph offers one of the largest cases in the entire Tissot collection, as well as Swiss technology at an unbeatable price! The Tissot Chrono XL is one of the largest chronographs (45mm) in the Tissot collection."
 }, {
+    name: "TISSOT T-MY LADY AUTOMATIC 18K GOLD",
+    gender: "Women",
+    price: 13650,
+    year: 2019,
+    images: [
+        "T930.007.46.296.00",
+        "T930.007.46.296.00_B1"
+    ],
+    case: {
+        color: "Rose Gold",
+        material: "316L stainless steel case with 18K rose gold bezel"
+    },
+    strap: {
+        color: "Grey",
+        material: "Leather"
+    },
+    waranty: "2 Years of Warranty",
+    description: "All women The Tissot T-My Lady is not just a feminine watch. Its concept, design and profound vocation make it the ideal watch for women: ladies, elegant, refined or business women - who consider that a watch is an object that journeys through time. Its dimensions - 29 mm in diameter - makes it the ideal everyday companion. Its 18 k solid gold burnished bezel gives relief, character and warmth to the T-My Lady collection. Its mechanical self-winding movement, regulated by a Nivachron spiral has exceptional non-magnetic capacities."
+}, {
     name: "TISSOT HERITAGE 1973",
     gender: "Men",
     price: 8000,
@@ -226,6 +453,63 @@ let products = [{
     },
     waranty: "2 Years of Warranty",
     description: "As innovators by tradition, Tissot celebrates its historic ties to motor-racing with a re-issue of a seventies style chronograph. The Tissot Heritage 1973 proudly flaunts its membership of Tissot’s historic stable. It symbolizes the partnership that brings together Tissot and the Kessel Classics racing team. Meeting contemporary requirements, this 43 mm wide chronograph, with a silvery grey dial featuring matte black counters, is available in a limited edition of 1973 pieces. The overstitched black calfskin strap is a reproduction of the one Tissot had invented and patented in the 1960s, characterized by its large perforations. It alludes to pilots’ steering wheels of the time. To power this racing machine, Tissot has fitted a reliable, powerful and tested engine, the ETA Valjoux 7753 self-winding movement."
+}, {
+    name: "TISSOT PR 100 SPORT CHIC",
+    gender: "Women",
+    price: 5450,
+    year: 2018,
+    images: [
+        "T101.910.33.116.00_1",
+        "T101.910.33.116.00_zoombracelet_1"
+    ],
+    case: {
+        color: "Rose Gold",
+        material: "316L stainless steel case with rose gold PVD coating"
+    },
+    strap: {
+        color: "Rose Gold",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "The Tissot PR 100 is a classic watch destined to be worn often and for every occasion. It features the simple and elegant face the collection is loved for, with the pared-back aesthetic symbolizing luxury, quality and classic style."
+}, {
+    name: "TISSOT LE LOCLE AUTOMATIC LADY",
+    gender: "Women",
+    price: 7750,
+    year: 2019,
+    images: [
+        "T006.207.11.126.00_1",
+        "T006.207.11.126.00_zoombracelet_1"
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Grey",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "Named after Tissot's hometown, the cradle of the watchmaking industry, the Tissot Le Locle encases the brand DNA and craftsmanship values. The Le Locle Automatic Lady, powered by an automatic Swiss movement, displays exquisite elegance. Details such as Roman numerals and a traditional Le Locle signature complete the picture of classical chic. These finish off soave daytime and evening looks with a flourish."
+}, {
+    name: "TISSOT LOVELY SQUARE",
+    gender: "Women",
+    price: 2850,
+    year: 2019,
+    images: [
+        "T058.109.11.041.00_1",
+        "T058.109.11.041.00_DETAIL.1_1"
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Grey",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "A tribute to the small Tissot ladies' watches of the 1960s, the Tissot Lovely Square is an utterly feminine creation, calibrated for the finest wrists. With delicate 2 x 2 cm dimensions, it is nonetheless bold in its square design, and its satin-smooth case glimmers whatever the season. Its exquisite dial, displaying minutes alongside hours, has the sensual aura of the most feminine attire. The design is available in seven distinct versions, naturally attracting women in love with timeless glamour."
 }, {
     name: "TISSOT CARSON PREMIUM",
     gender: "Men",
@@ -322,6 +606,25 @@ let products = [{
     waranty: "2 Years of Warranty",
     description: "The Tissot Chemin des Tourelles is a very special piece that encapsulates an important part of Tissot's history. It takes its name from the street in Le Locle, Switzerland, where the Tissot factory was established in 1907, and where the company can still be found today. The watch compliments the company's vast years of expertise with a contemporary design with an elegant caseThe result is wonderfully luxurious, but still easily accessible thanks to the good value Tissot is still proud to offer."
 }, {
+    name: "TISSOT PR 100 LADY SMALL",
+    gender: "Women",
+    price: 2550,
+    year: 2018,
+    images: [
+        "T101.010.11.031.00_1",
+        "T101.010.11.031.00_zoombracelet_2"
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Grey",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "The Tissot PR 100 is a classic watch destined to be worn often and for every occasion. It features the simple and elegant face the collection is loved for, with the pared-back aesthetic symbolising luxury, quality and classic style."
+}, {
     name: "TISSOT T-RACE MOTOGP 2020 AUTOMATIC CHRONOGRAPH LIMITED EDITION",
     gender: "Men",
     price: 5400,
@@ -360,6 +663,63 @@ let products = [{
     waranty: "2 Years of Warranty",
     description: "The lure of the Tissot Alpine on board lies in both its chic look and unique concept. The Tissot Alpine On Board Automatic Chronograph is a very Alpine-driver's essential item!"
 }, {
+    name: "TISSOT T-WAVE",
+    gender: "Women",
+    price: 3750,
+    year: 2018,
+    images: [
+        "T112.210.11.046.00_2",
+        "T112.210.11.046.00_zoombracelet_1"
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Grey",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "There is a certain grace in the way a silk ribbon swirls in the wind. It is that elegance and lightness that inspired the design of the Tissot T-Wave. The curves of the case and lugs follow the harmonious lines formed by the fluid movement of a ribbon. The pure dial features refined details such as hands resembling skeletonised leaves and a teardrop index set with white or black mother-of-pearl at 12 o’clock. The Tissot T-Wave is a piece of jewellery that can be worn at any occasion, adding a touch of sophistication to a daily outfit or complimenting a cocktail dress for a special occasion."
+}, {
+    name: "TISSOT LE LOCLE AUTOMATIC LADY",
+    gender: "Women",
+    price: 7350,
+    year: 2016,
+    images: [
+        "T41.2.183.16_1",
+        "T41.2.183.16_zoombracelet_1"
+    ],
+    case: {
+        color: "Rose Gold",
+        material: "316L stainless steel case with rose gold PVD coating"
+    },
+    strap: {
+        color: "Grey, Rose Gold 5N",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "The name Le Locle seems to be a reliable ingredient of success. As well as being the name of Tissot's home and heritage, nestled in the Swiss Jura Mountains, it is the name of a hugely popular automatic watch family. The models display exquisite elegance with details such as Roman numerals and a traditional Le Locle signature which complete the picture of classical chic."
+}, {
+    name: "TISSOT EVERYTIME SWISSMATIC",
+    gender: "Women",
+    price: 4200,
+    year: 2018,
+    images: [
+        "T109.407.16.051.00_3",
+        "T109.407.16.051.00_zoombracelet_1"
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Black",
+        material: "Leather"
+    },
+    waranty: "2 Years of Warranty",
+    description: "As it names indicates, this watch will be the winner everytime, for any occasion. A classical, timeless design, the sleek and clean face of the Tissot Everytime singles it out as a very modern watch. The cool minimalism of the face leaves room for some fun experimentation with the bracelet."
+}, {
     name: "TISSOT HERITAGE PORTO",
     gender: "Men",
     price: 5150,
@@ -378,4 +738,23 @@ let products = [{
     },
     waranty: "2 Years of Warranty",
     description: "Reaching out beyond elegance and style. With its retro and sophisticated lines, Heritage Porto sails between eras and surfs over the present day. A slender and domed tonneau-shape, this watch takes its inspiration from Art Nouveau. It will appeal to lovers of vinyl records, instant Polaroid snaps, retro gaming and anyone looking for a hint of old-fashioned style."
+}, {
+    name: "TISSOT BRIDGEPORT LADY",
+    gender: "Women",
+    price: 3600,
+    year: 2017,
+    images: [
+        "T097.010.11.038.00_3",
+        "T097.010.11.038.00_zoombracelet_1"
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Grey",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "Whether worn to the boardroom or a smart restaurant, the Tissot Bridgeport watch exudes powerful elegance and an understated aesthetic that will keep it looking fresh for years to come."
 }];
