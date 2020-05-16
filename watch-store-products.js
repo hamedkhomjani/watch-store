@@ -21,6 +21,7 @@ let products = [{
     name: "TISSOT CHRONO XL NBA SPECIAL EDITION",
     gender: "Men",
     price: 7500,
+    year: 2020,
     images: [
         "T116.617.36.051.12",
         "T116.617.36.051.12_zoombracelet"
@@ -39,6 +40,7 @@ let products = [{
     name: "TISSOT LE LOCLE POWERMATIC 80",
     gender: "Men",
     price: 5500,
+    year: 2019,
     images: [
         "T006.407.16.033.00_7",
         "T006.407.16.033.00_zoombracelet_1"
@@ -57,6 +59,7 @@ let products = [{
     name: "TISSOT GENTLEMAN POWERMATIC 80 SILICIUM",
     gender: "Men",
     price: 6500,
+    year: 2019,
     images: [
         "T127.407.11.041.00_1",
         "T127.407.11.041.00_zoombracelet_1"
@@ -74,6 +77,7 @@ let products = [{
 }, {
     name: "TISSOT T-TOUCH EXPERT SOLAR II SWISS EDITION",
     gender: "Men",
+    year: 2019,
     price: 7500,
     images: [
         "T110.420.46.051.00_1",
@@ -92,6 +96,7 @@ let products = [{
 }, {
     name: "TISSOT CHRONO XL CLASSIC",
     gender: "Men",
+    year: 2018,
     price: 4500,
     images: [
         "T116.617.16.047.00_1",
@@ -111,6 +116,7 @@ let products = [{
     name: "TISSOT LE LOCLE AUTOMATIQUE PETITE SECONDE",
     gender: "Men",
     price: 6000,
+    year: 2018,
     images: [
         "T006.428.36.052.00",
         "T006.428.36.052.00_zoombracelet"
@@ -129,6 +135,7 @@ let products = [{
     name: "TISSOT V8 ALPINE",
     gender: "Men",
     price: 5900,
+    year: 2016,
     images: [
         "T106.417.16.201.01_1",
         "T106.417.16.201.01_zoombracelet_1"
@@ -147,6 +154,7 @@ let products = [{
     name: "TISSOT T-TOUCH EXPERT SOLAR II",
     gender: "Men",
     price: 7900,
+    year: 2016,
     images: [
         "T110.420.44.051.00_1",
         "T110.420.44.051.00_zoombracelet_1"
@@ -165,6 +173,7 @@ let products = [{
     name: "TISSOT GENTLEMAN",
     gender: "Men",
     price: 4900,
+    year: 2017,
     images: [
         "T127.410.16.041.00",
         "T127.410.16.041.00_zoombracelet"
@@ -183,6 +192,7 @@ let products = [{
     name: "TISSOT CHRONO XL",
     gender: "Men",
     price: 4900,
+    year: 2017,
     images: [
         "T116.617.36.057.00_1",
         "T116.617.36.057.00_zoombracelet_1"
@@ -201,6 +211,7 @@ let products = [{
     name: "TISSOT HERITAGE 1973",
     gender: "Men",
     price: 8000,
+    year: 2019,
     images: [
         "T124.427.16.031.00_1",
         "T124.427.16.031.00_MT_1" //in saat dar site ax band nadasht//
@@ -219,6 +230,7 @@ let products = [{
     name: "TISSOT CARSON PREMIUM",
     gender: "Men",
     price: 4560,
+    year: 2020,
     images: [
         "T122.410.16.033.00_2",
         "T122.410.16.033.00_zoombracelet_1"
@@ -237,6 +249,7 @@ let products = [{
     name: "TISSOT SEASTAR 1000 CHRONOGRAPH",
     gender: "Men",
     price: 5560,
+    year: 2020,
     images: [
         "T120.417.17.041.00_1",
         "T120.417.17.041.00_zoombracelet_1"
@@ -255,6 +268,7 @@ let products = [{
     name: "TISSOT LUXURY POWERMATIC 80",
     gender: "Men",
     price: 6560,
+    year: 2016,
     images: [
         "T086.407.22.097.00",
         "T086.407.22.097.00_zoombracelet"
@@ -273,6 +287,7 @@ let products = [{
     name: "TISSOT GENTLEMAN POWERMATIC 80 SILICIUM",
     gender: "Men",
     price: 5400,
+    year: 2020,
     images: [
         "T127.407.16.051.00",
         "T127.407.16.051.00_zoombracelet"
@@ -291,6 +306,7 @@ let products = [{
     name: "TISSOT CHEMIN DES TOURELLES POWERMATIC 80",
     gender: "Men",
     price: 5400,
+    year: 2018,
     images: [
         "T099.407.11.048.00_1",
         "T099.407.11.048.00_zoombracelet_1"
@@ -309,6 +325,7 @@ let products = [{
     name: "TISSOT T-RACE MOTOGP 2020 AUTOMATIC CHRONOGRAPH LIMITED EDITION",
     gender: "Men",
     price: 5400,
+    year: 2019,
     images: [
         "T115.427.27.057.00",
         "T115.427.27.057.00_zoombracelet"
@@ -327,6 +344,7 @@ let products = [{
     name: "TISSOT ALPINE ON BOARD",
     gender: "Men",
     price: 8000,
+    year: 2017,
     images: [
         "T123.610.16.057.00_1",
         "T123.610.16.057.00_zoombracelet"
@@ -345,6 +363,7 @@ let products = [{
     name: "TISSOT HERITAGE PORTO",
     gender: "Men",
     price: 5150,
+    year: 2016,
     images: [
         "T128.509.36.032.00_1",
         "T128.509.36.032.00_zoombracelet_1"
