@@ -215,4 +215,148 @@ let products = [{
     },
     waranty: "2 Years of Warranty",
     description: "As innovators by tradition, Tissot celebrates its historic ties to motor-racing with a re-issue of a seventies style chronograph. The Tissot Heritage 1973 proudly flaunts its membership of Tissot’s historic stable. It symbolizes the partnership that brings together Tissot and the Kessel Classics racing team. Meeting contemporary requirements, this 43 mm wide chronograph, with a silvery grey dial featuring matte black counters, is available in a limited edition of 1973 pieces. The overstitched black calfskin strap is a reproduction of the one Tissot had invented and patented in the 1960s, characterized by its large perforations. It alludes to pilots’ steering wheels of the time. To power this racing machine, Tissot has fitted a reliable, powerful and tested engine, the ETA Valjoux 7753 self-winding movement."
+}, {
+    name: "TISSOT CARSON PREMIUM",
+    gender: "Men",
+    price: 4560,
+    images: [
+        "T122.410.16.033.00_2",
+        "T122.410.16.033.00_zoombracelet_1" 
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Black",
+        material: "Leather"
+    },
+    waranty: "2 Years of Warranty",
+    description: "The Tissot Carson, an all-timer which will suit any time or place, will be the perfect partner to accompany you to every great occasion in your life so that every moment you live is right on time. Its classic style allows it to never go out of date, while giving it its sumptuous look, highlighted by a graceful dial design and elongated fine hands that move around the dial in time"
+}, {
+    name: "TISSOT SEASTAR 1000 CHRONOGRAPH",
+    gender: "Men",
+    price: 5560,
+    images: [
+        "T120.417.17.041.00_1",
+        "T120.417.17.041.00_zoombracelet_1" 
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Black",
+        material: "Rubber"
+    },
+    waranty: "2 Years of Warranty",
+    description: "The Tissot Seastar 1000 merges style and performance without compromising either. The diving inspiration shapes both the appearance and the functionality of this watch. It maintains its performance to a pressure of 30 bar (300m/1'000ft), combining underwater sports and a preference for a sophisticated Swiss timepiece. The diving theme continues through elements such as a unidirectional bezel, a strap with a divers' safety buckle, plus luminescent hands and markings."
+}, {
+    name: "TISSOT LUXURY POWERMATIC 80",
+    gender: "Men",
+    price: 6560,
+    images: [
+        "T086.407.22.097.00",
+        "T086.407.22.097.00_zoombracelet" 
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case with yellow gold PVD coating"
+    },
+    strap: {
+        color: "Grey",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "Tissot has mastered watchmaking down to a science and has given rise to an exceptional piece of ultimate precision. It is its heart that makes it truly exquisite. The secret lies with its revolutionary Powermatic 80 movement which has an extraordinary 80 hours power reserve. To match the high standards set by the movement, the timepiece’s exterior portrays a purely divine look with unmistakable class, adding that extra irresistible touch. There is no point in trying to resist it. You know you deserve it so just give in to this luxurious temptation."
+}, {
+    name: "TISSOT GENTLEMAN POWERMATIC 80 SILICIUM",
+    gender: "Men",
+    price: 5400,
+    images: [
+        "T127.407.16.051.00",
+        "T127.407.16.051.00_zoombracelet" 
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Black",
+        material: "Leather"
+    },
+    waranty: "2 Years of Warranty",
+    description: "The Tissot Gentleman is a multi-purpose watch, both ergonomic and elegant in any circumstance. It is equally suitable for wearing in a business environment, where conventional dress codes apply, as at the weekend, when it adapts easily to leisure activities. As part of the life of a modern, active man, the Tissot Gentleman becomes the perfect companion for every day, every occasion and every style."
+}, {
+    name: "TISSOT CHEMIN DES TOURELLES POWERMATIC 80",
+    gender: "Men",
+    price: 5400,
+    images: [
+        "T099.407.11.048.00_1",
+        "T099.407.11.048.00_zoombracelet_1" 
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Grey",
+        material: "Stainless steel"
+    },
+    waranty: "2 Years of Warranty",
+    description: "The Tissot Chemin des Tourelles is a very special piece that encapsulates an important part of Tissot's history. It takes its name from the street in Le Locle, Switzerland, where the Tissot factory was established in 1907, and where the company can still be found today. The watch compliments the company's vast years of expertise with a contemporary design with an elegant caseThe result is wonderfully luxurious, but still easily accessible thanks to the good value Tissot is still proud to offer."
+},  {
+    name: "TISSOT T-RACE MOTOGP 2020 AUTOMATIC CHRONOGRAPH LIMITED EDITION",
+    gender: "Men",
+    price: 5400,
+    images: [
+        "T115.427.27.057.00",
+        "T115.427.27.057.00_zoombracelet" 
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case with black PVD coating"
+    },
+    strap: {
+        color: "Black",
+        material: "Rubber"
+    },
+    waranty: "2 Years of Warranty",
+    description: "This watch is exclusive because it pays tribute to our association with MotoGP™. Additionally, perfect for collectors due to its fixed production of 3333 pieces, meaning only a lucky few will be able to own this limited edition! With its aggressive and racy look, we wanted this watch to be as close to a motorbike as possible"
+}, {
+    name: "TISSOT ALPINE ON BOARD",
+    gender: "Men",
+    price: 8000,
+    images: [
+        "T123.610.16.057.00_1",
+        "T123.610.16.057.00_zoombracelet" 
+    ],
+    case: {
+        color: "Silver",
+        material: "316L stainless steel case"
+    },
+    strap: {
+        color: "Black",
+        material: "Leather"
+    },
+    waranty: "2 Years of Warranty",
+    description: "The lure of the Tissot Alpine on board lies in both its chic look and unique concept. The Tissot Alpine On Board Automatic Chronograph is a very Alpine-driver's essential item!"
+}, {
+    name: "TISSOT HERITAGE PORTO",
+    gender: "Men",
+    price: 5150,
+    images: [
+        "T128.509.36.032.00_1",
+        "T128.509.36.032.00_zoombracelet_1" 
+    ],
+    case: {
+        color: "Rosegold",
+        material: "316L stainless steel case with rose gold PVD coating"
+    },
+    strap: {
+        color: "Brown",
+        material: "Leather"
+    },
+    waranty: "2 Years of Warranty",
+    description: "Reaching out beyond elegance and style. With its retro and sophisticated lines, Heritage Porto sails between eras and surfs over the present day. A slender and domed tonneau-shape, this watch takes its inspiration from Art Nouveau. It will appeal to lovers of vinyl records, instant Polaroid snaps, retro gaming and anyone looking for a hint of old-fashioned style."
 }];
