@@ -221,7 +221,7 @@ let products = [{
     price: 4560,
     images: [
         "T122.410.16.033.00_2",
-        "T122.410.16.033.00_zoombracelet_1" 
+        "T122.410.16.033.00_zoombracelet_1"
     ],
     case: {
         color: "Silver",
@@ -239,7 +239,7 @@ let products = [{
     price: 5560,
     images: [
         "T120.417.17.041.00_1",
-        "T120.417.17.041.00_zoombracelet_1" 
+        "T120.417.17.041.00_zoombracelet_1"
     ],
     case: {
         color: "Silver",
@@ -257,7 +257,7 @@ let products = [{
     price: 6560,
     images: [
         "T086.407.22.097.00",
-        "T086.407.22.097.00_zoombracelet" 
+        "T086.407.22.097.00_zoombracelet"
     ],
     case: {
         color: "Silver",
@@ -275,7 +275,7 @@ let products = [{
     price: 5400,
     images: [
         "T127.407.16.051.00",
-        "T127.407.16.051.00_zoombracelet" 
+        "T127.407.16.051.00_zoombracelet"
     ],
     case: {
         color: "Silver",
@@ -293,7 +293,7 @@ let products = [{
     price: 5400,
     images: [
         "T099.407.11.048.00_1",
-        "T099.407.11.048.00_zoombracelet_1" 
+        "T099.407.11.048.00_zoombracelet_1"
     ],
     case: {
         color: "Silver",
@@ -305,13 +305,13 @@ let products = [{
     },
     waranty: "2 Years of Warranty",
     description: "The Tissot Chemin des Tourelles is a very special piece that encapsulates an important part of Tissot's history. It takes its name from the street in Le Locle, Switzerland, where the Tissot factory was established in 1907, and where the company can still be found today. The watch compliments the company's vast years of expertise with a contemporary design with an elegant caseThe result is wonderfully luxurious, but still easily accessible thanks to the good value Tissot is still proud to offer."
-},  {
+}, {
     name: "TISSOT T-RACE MOTOGP 2020 AUTOMATIC CHRONOGRAPH LIMITED EDITION",
     gender: "Men",
     price: 5400,
     images: [
         "T115.427.27.057.00",
-        "T115.427.27.057.00_zoombracelet" 
+        "T115.427.27.057.00_zoombracelet"
     ],
     case: {
         color: "Silver",
@@ -329,7 +329,7 @@ let products = [{
     price: 8000,
     images: [
         "T123.610.16.057.00_1",
-        "T123.610.16.057.00_zoombracelet" 
+        "T123.610.16.057.00_zoombracelet"
     ],
     case: {
         color: "Silver",
@@ -347,7 +347,7 @@ let products = [{
     price: 5150,
     images: [
         "T128.509.36.032.00_1",
-        "T128.509.36.032.00_zoombracelet_1" 
+        "T128.509.36.032.00_zoombracelet_1"
     ],
     case: {
         color: "Rosegold",
