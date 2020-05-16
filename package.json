@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "scripts": {
         "build": "node --require @babel/register ./node_modules/.bin/webpack",
-        "serve": "node --require @babel/register ./node_modules/.bin/webpack-dev-server"
+        "serve": "node --require @babel/register webpack-dev-server"
     },
     "babel": {
         "presets": [
