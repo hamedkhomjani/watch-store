@@ -1,10 +1,10 @@
-import path from "path";
+let path = require ("path");
 
-import { optimize } from "webpack";
+let webpack = require("webpack");
 
-import HtmlWebpackPlugin from "html-webpack-plugin";
+let HtmlWebpackPlugin = require( "html-webpack-plugin");
 
-export default {
+module.exports = {
     entry: {
         app: './watch-store/watch-store.jsx'
     },
@@ -32,7 +32,7 @@ export default {
     },
     plugins: [
         // @ts-ignore
-        new optimize.AggressiveSplittingPlugin({
+        new webpack.optimize.AggressiveSplittingPlugin({
             minSize: 30000,
             maxSize: 50000
         }),

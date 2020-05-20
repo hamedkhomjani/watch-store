@@ -5,7 +5,7 @@
   "main": "webpack.config.js",
   "scripts": {
       "webpack-dev-server": "webpack-dev-server",
-    "start": "node --require @babel/register webpack-dev-server --mode development",
+    "start": "webpack-dev-server --require @babel/register --mode development",
     "build": "node --require @babel/register ./node_modules/.bin/webpack --mode production"
   },
   "babel": {
