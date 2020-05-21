@@ -1,10 +1,10 @@
-let path = require ("path");
+import path from "path";
 
-let webpack = require("webpack");
+import webpack from "webpack";
 
-let HtmlWebpackPlugin = require( "html-webpack-plugin");
+import HtmlWebpackPlugin from "html-webpack-plugin";
 
-module.exports = {
+export default {
     entry: {
         app: './watch-store/watch-store.jsx'
     },
