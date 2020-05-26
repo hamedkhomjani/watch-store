@@ -32,3 +32,15 @@ ReactDOM.render(
   <HelloMessage name="Hamed"></HelloMessage>,
   document.getElementById('watch-store')
 );
+
+class WatchStor extends Component{
+
+  state = {name: "Hamed"}
+
+  render() {
+    return (
+      <div>List {this.state.hamed}</div>
+    )
+  }
+
+}
