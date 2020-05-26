@@ -20,6 +20,16 @@ class WatchStore extends Component {
       <div><ShoppingList shalgham={this.state.name} name="Asghar"></ShoppingList></div>
     );
   }
+  
+  class ShoppingList extends Component {
+
+  state = { name: "Shaghayegh" }
+
+  render() {
+    return (
+      <div><Person Surname={this.props.name} Age="23" name="Shahin"></Person></div>
+    );
+  }
 }
 
 ReactDOM.render(
