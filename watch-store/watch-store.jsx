@@ -1,46 +1,28 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
 
-class ShoppingList extends React.Component {
+class ShoppingList extends Component {
   render() {
     return (
       <div className="shopping-list">
-        <h1>Shopping List for {this.props.name}</h1>
-        <ul>
-          {this.props.list.map((item)=>{
-            return <li>{item}</li>
-          })}
-          
-        </ul>
+        ShoppingList
       </div>
     );
   }
 }
 
-class HelloMessage extends Component {
+class WatchStore extends Component {
 
-  state = { date: new Date().toDateString(), list: ["Instagaram", "WhatsApp", "Oculus", "Skype"] };
+  state = { name: "Hamed" }
 
   render() {
     return (
-      <div>Hello {this.props.name} list: <ShoppingList list={this.state.list} name="Hamed"></ShoppingList></div>
+      <div><ShoppingList shalgham={this.state.name} name="Asghar"></ShoppingList></div>
     );
   }
 }
 
 ReactDOM.render(
-  <HelloMessage name="Hamed"></HelloMessage>,
+  <WatchStore name="Hamed"></WatchStore>,
   document.getElementById('watch-store')
 );
-
-class WatchStor extends Component{
-
-  state = {name: "Hamed"}
-
-  render() {
-    return (
-      <div>List {this.state.hamed}</div>
-    )
-  }
-
-}
