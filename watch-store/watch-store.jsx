@@ -7,9 +7,7 @@ class HelloMessage extends Component {
 
   render() {
     return (
-      <div>
-        Hello {this.props.name} Date: {this.state.date}
-      </div>
+      <div>Hello {this.props.name} Date: {this.state.date}</div>
     );
   }
 }
