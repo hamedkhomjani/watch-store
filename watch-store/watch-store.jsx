@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
 
-class ShoppingList extends Component {
+class Person extends Component {
   render() {
     return (
       <div className="shopping-list">
@@ -20,8 +20,9 @@ class WatchStore extends Component {
       <div><ShoppingList shalgham={this.state.name} name="Asghar"></ShoppingList></div>
     );
   }
-  
-  class ShoppingList extends Component {
+}
+
+class ShoppingList extends Component {
 
   state = { name: "Shaghayegh" }
 
