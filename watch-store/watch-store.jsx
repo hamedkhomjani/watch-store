@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
-import { MyDate } from "./MyDate";
 
 class ShoppingList extends React.Component {
   render() {
@@ -8,10 +7,10 @@ class ShoppingList extends React.Component {
       <div className="shopping-list">
         <h1>Shopping List for {this.props.name}</h1>
         <ul>
-          {this.props.list}
-          <li>Instagram</li>
-          <li>WhatsApp</li>
-          <li>Oculus</li>
+          {this.props.list.map((item)=>{
+            return <li>{item}</li>
+          })}
+          
         </ul>
       </div>
     );
@@ -20,11 +19,11 @@ class ShoppingList extends React.Component {
 
 class HelloMessage extends Component {
 
-  state = { date: new Date().toDateString(), list: ["Instagaram", "WhatsApp", "Oculus"] };
+  state = { date: new Date().toDateString(), list: ["Instagaram", "WhatsApp", "Oculus", "Skype"] };
 
   render() {
     return (
-      <div>Hello {this.props.name} Date: <MyDate date={this.state.date} ></MyDate> list: <ShoppingList list={this.state.list}></ShoppingList></div>
+      <div>Hello {this.props.name} list: <ShoppingList list={this.state.list} name="Hamed"></ShoppingList></div>
     );
   }
 }
