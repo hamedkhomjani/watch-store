@@ -1,0 +1,16 @@
+.ambassador {
+    display: flex;
+    flex-direction: row;
+}
+
+.ambassador-image {
+    max-width: 50%;
+}
+
+.ambassador-text {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: justify;
+}
